@@ -1,0 +1,70 @@
+branch master 
+
+commit be4d885d67f925c98d3aeed14e83cd12dacd423f (HEAD -> master, origin/master)
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 17:34:55 2024 +0200
+
+    Add starter code
+
+commit 34d51c17cfbc11ff31fa17a3c0acaa2ff6b77101
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 17:25:01 2024 +0200
+
+    Initial commit
+
+
+branch bug1
+
+
+commit 49c4243235625be6178dd635774ad606207dbadc (HEAD -> bug1, origin/bug1)
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 21:17:08 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit 20b0f2eb2043a3999f6362eaddb94e53755e1ecf
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 21:05:23 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit be4d885d67f925c98d3aeed14e83cd12dacd423f (origin/master, master)
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 17:34:55 2024 +0200
+
+    Add starter code
+
+commit 34d51c17cfbc11ff31fa17a3c0acaa2ff6b77101
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 17:25:01 2024 +0200
+
+    Initial commit
+
+
+branch bug2
+
+
+
+commit d9bd0084cf5cd703f95fd29ade53ecdbbd0fffef (HEAD -> bug2, origin/bug2)
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 21:17:59 2024 +0200
+
+    Call method makeBigStringFrom
+
+commit 8c02977505a2ae8b5ca85a948887f83272931ed7
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 21:07:14 2024 +0200
+
+    Fix wrong condition in makeBigStringForm
+
+commit be4d885d67f925c98d3aeed14e83cd12dacd423f (origin/master, master)
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 17:34:55 2024 +0200
+
+    Add starter code
+
+commit 34d51c17cfbc11ff31fa17a3c0acaa2ff6b77101
+Author: Yll <yllsulejmani95@gmail.com>
+Date:   Sat Apr 13 17:25:01 2024 +0200
+
+    Initial commit

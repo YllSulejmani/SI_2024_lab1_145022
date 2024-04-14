@@ -1,0 +1,39 @@
+git init - инициализирав 
+git remote add origin https://github.com/YllSulejmani/SI_2024_lab1_145022.git - го поврзив remote repo со локал repo
+git status - го проверив статусот
+git add README.md - го додадов README.md
+git status - го проверив статусот
+git add . - го дадов фајлот
+git commit -m "Initial commit" - правив commit
+git push -u origin master - го пушнав
+git status - го проверив статусот
+git add . - го дадов фајлот
+git commit -m "Add starter code" - правив commit
+git push -u origin master - го пушнав
+git status - го проверив статусот
+git branch bug1 - креирав гранка bug1
+git branch bug2 - креирав гранка bug2
+git checkout bug1 - се префрлив на bug1
+git status - го проверив статусот
+git add SILab1_1.java - го додадов фајлот
+git status - го проверив статусот
+git commit -m "Fix wrong condition in filterOddLengthStrings" - правив commit
+git checkout bug2 - се префрлив на bug2
+git add SILAB1_2.java - го додадов фајлот
+git commit -m "Fix wrong condition in makeBigStringForm" - правив commit
+git checkout bug1 - се префрлив на bug1
+git status - го проверив статусот
+git add SILabMain.java - го додадов фајлот
+git commit -m "Call method filterOddLengthStrings" -правив commit
+git checkout bug2 - се префрлив на bug2
+git status - го проверив статусот
+git add SILab1Main.java -  го додадов фајлот
+git commit -m "Call method makeBigStringFrom" - правив commit
+git checkout bug1 - се префрлив на bug1
+git push -u origin bug1 - правив push на гранката bug1
+git checkout bug2 - се префрлив на bug2
+git push -u origin bug2 - правив push на гранката bug2
+git checkout master - се префрлив на master
+git add . - ги дадов фајловите
+git commit -m - правив commit "Final commit"
+
